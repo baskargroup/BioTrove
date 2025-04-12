@@ -1,4 +1,4 @@
-# BioTrove: A Large Curated Image Dataset Enabling AI for Biodiversity
+# [BioTrove: A Large Curated Image Dataset Enabling AI for Biodiversity](https://proceedings.neurips.cc/paper_files/paper/2024/file/b92854f80ba4feefb973959b259dbc2c-Paper-Datasets_and_Benchmarks_Track.pdf)
 <!-- Banner links -->
 <div style="text-align:center; margin-top: 20px;">
   <a href="https://baskargroup.github.io/BioTrove/" target="_blank">
